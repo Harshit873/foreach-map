@@ -1,2 +1,2 @@
 # foreach-map
-foreach and map loop description,use,example and program
+foreach and map loop Description,Use,Example and Program
